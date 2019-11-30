@@ -26,7 +26,7 @@ To see commands while on either server, type !!help to get a direct message from
 
 
 #### Tasks To Finish
-- [] Refactor old code
+- [x] Refactor old code
 - [] Fix Help command's command organization
 - []
 
