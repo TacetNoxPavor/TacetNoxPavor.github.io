@@ -8,11 +8,11 @@ Currently, there are 3 projects that will be listed here for the foreseeable fut
 
 | Name         | Description       | Active |
 |:-------------|:------------------|:------ |
-| Notitia      | Discord Bot       | Yes    |  
+| Notitia      | Discord Bot       | |  
 | Magister     | Twitch.tv bot     | Yes    |  
 | DnD Builder  | Character Builder | Eh.    |  
 
-Links to each project:
+Links to each project repo:
 
 * [Notitia](https://github.com/TacetNoxPavor/Notitia)
 * [Magister](https://github.com/TacetNoxPavor/Magister)
