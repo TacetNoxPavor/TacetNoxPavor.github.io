@@ -1,3 +1,5 @@
+[back](../index.md)
+
 # Notitia
 #### A Discord bot built using the JDA framework.
 
@@ -5,6 +7,10 @@ This bot runs two servers currently:
 - My server, for testing
 - Tritemare's server, the Twitch.tv streamer that I moderate for and built this bot for.
 
+#### Tasks To Finish
+- [x]  Refactor old code
+- [ ]  Fix Help command's command organization
+- [ ]  Add other knight name tools (Edit/Delete)
 
 #### Commands
 
@@ -24,10 +30,5 @@ To see commands while on either server, type !!help to get a direct message from
 | `!!addname <user>=<knighted name>` | Add a knighted subscriber's name to the database| **Mods Only** |
 | `!!subbed  <user>`  | Retrieve the amount of months a given subscriber has been subbed for  | **Anyone**  |
 
-
-#### Tasks To Finish
-- [x] Refactor old code
-- [ ] Fix Help command's command organization
-- [ ] Add other knight name tools (Edit/Delete)
 
 [back](../index.md)
