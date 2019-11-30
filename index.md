@@ -12,12 +12,19 @@ I went to school at Wilkes University in Pennsylvania, majoring in Computer Info
 I graduated back in 2017, and am currently looking for a job related to my field.
 
 
-### Projects
+
+### Project Repos
 
 Currently, there are 3 projects that will be listed here for the foreseeable future:
 
-|     Name     | Description        | Active | Info Page                                                                  | Repo |
-|:-------------|:------------------:|:------:| :-------:                                                                  |:----:|
-| Notitia      | Discord Bot        | Yes    |  <a href="https://www.tacetnox.tools/Projects/Notitia.md">Notitia Repo</a> | <a href="https://github.com/TacetNoxPavor/Notitia">Notitia Repo</a> |
-| Magister     | Twitch.tv bot      | Yes    |  <a href="https://www.tacetnox.tools/Projects/Magister.md">Magister Info</a> | <a href="https://github.com/TacetNoxPavor/Magister">Magister Repo</a> |
-| DnD Builder  | Character Builder  | *Eh.*  |  <a href="https://www.tacetnox.tools/Projects/DnD-Builder.md">5e Builder Info</a> | <a href="https://github.com/TacetNoxPavor/DnD5e-Character-Builder">DnD5e Builder Repo</a> |
+|     Name     | Description        | Active | Repo |
+|:-------------|:------------------:|:------:|:----:|
+| Notitia      | Discord Bot        | Yes    |    <a href="https://github.com/TacetNoxPavor/Notitia">Notitia Repo</a> |
+| Magister     | Twitch.tv bot      | Yes    | <a href="https://github.com/TacetNoxPavor/Magister">Magister Repo</a> |
+| DnD Builder  | Character Builder  | *Eh.*  | <a href="https://github.com/TacetNoxPavor/DnD5e-Character-Builder">DnD5e Builder Repo</a> |
+
+### Project Info Pages
+
+Discord Bot Info (Notitia) -- [HERE](./Projects/Notitia.md)  
+Twitch Bot Info (Magister) -- [HERE](./Projects/Magister.md)  
+DnD5e Character Maker Info -- [HERE](./Projects/DnD-Builder.md)
