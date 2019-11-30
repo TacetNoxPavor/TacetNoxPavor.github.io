@@ -28,6 +28,6 @@ To see commands while on either server, type !!help to get a direct message from
 #### Tasks To Finish
 - [x] Refactor old code
 - [ ] Fix Help command's command organization
-- [ ] 
+- [ ] Add other knight name tools (Edit/Delete)
 
 [back](../index.md)
