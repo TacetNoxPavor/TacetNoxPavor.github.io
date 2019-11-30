@@ -22,6 +22,8 @@ Currently, there are 3 projects that will be listed here for the foreseeable fut
 | Magister     | Twitch.tv bot      | Yes    |  
 | DnD Builder  | Character Builder  | *Eh.*  |  
 
+<a href="http://opencv.org/">OpenCV</a>
+
 Links to each project repo:
 
 * [Notitia](https://github.com/TacetNoxPavor/Notitia) --- [Info](./Projects/Notitia.md)
