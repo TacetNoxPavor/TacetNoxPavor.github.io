@@ -22,7 +22,6 @@ Currently, there are 3 projects that will be listed here for the foreseeable fut
 | Magister     | Twitch.tv bot      | Yes    |  <a href="https://www.tacetnox.tools/Projects/Magister.md">Magister Info</a> | <a href="https://github.com/TacetNoxPavor/Magister">Magister Repo</a>
 | DnD Builder  | Character Builder  | *Eh.*  |  <a href="https://www.tacetnox.tools/Projects/DnD-Builder.md">OpenCV</a> | <a href="https://github.com/TacetNoxPavor/DnD5e-Character-Builder">DnD5e Builder Repo</a>
 
-<a href="http://opencv.org/">OpenCV</a>
 
 Links to each project repo:
 
