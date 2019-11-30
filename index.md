@@ -3,7 +3,7 @@
 
  This is a place for all information to be found regarding any and all projects that I may be currently working on, given that I update this page as well! Also, some personal information about me and the way I operate will also be listed here.
 
-###About Me
+### About Me
 
 Hi there!
 For my online presence I use the handle Tacet Nox, however my real name is Jesse McDermott.
@@ -11,7 +11,7 @@ For my online presence I use the handle Tacet Nox, however my real name is Jesse
 I went to school at Wilkes University in Pennsylvania, majoring in Computer Information Systems.
 
 
-###Projects
+### Projects
 
 Currently, there are 3 projects that will be listed here for the foreseeable future:
 
