@@ -1,19 +1,19 @@
 # Hello and Welcome!
-
-#### This is a place for all information to be found regarding any and all projects that I may be currently working on, given that I update this page as well!
+* * *
+##### This is a place for all information to be found regarding any and all projects that I may be currently working on, given that I update this page as well!
 
 * * *
 
 Currently, there are 3 projects that will be listed here for the foreseeable future:
 
-| Name         | Description       | Active |
-|:-------------|:------------------|:------ |
-| Notitia      | Discord Bot       | |  
-| Magister     | Twitch.tv bot     | Yes    |  
-| DnD Builder  | Character Builder | Eh.    |  
+| Name         | Description        | Active |
+|:-------------|:------------------:|:------:|
+| Notitia      | Discord Bot        | Yes    |  
+| Magister     | Twitch.tv bot      | Yes    |  
+| DnD Builder  | Character Builder  | *Eh.*  |  
 
 Links to each project repo:
 
-* [Notitia](https://github.com/TacetNoxPavor/Notitia)
-* [Magister](https://github.com/TacetNoxPavor/Magister)
-* [DnD Builder](https://github.com/TacetNoxPavor/DnD5e-Character-Builder)
+* [Notitia](https://github.com/TacetNoxPavor/Notitia) --- [Info](./Projects/Notitia.md)
+* [Magister](https://github.com/TacetNoxPavor/Magister) --- [Info](./Projects/Magister.md)
+* [DnD Builder](https://github.com/TacetNoxPavor/DnD5e-Character-Builder) --- [Info](./Projects/DnD-Builder.md)
