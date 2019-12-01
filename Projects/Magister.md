@@ -13,6 +13,15 @@ than an average viewer in maintaining a positive stream chat experience, which I
 
 #### Tasks To Finish
 - [ ]  Implement Optimum bot functionality (if still needed going forward)
+- [ ]  Remove Chase Emotes from emote spams.
+- [x]  Fix msg-param-months issue
+
+```Java
+msg-param-cumulative-months -- 34 // This is what I need to use.
+msg-param-months -- 0 //This is what I was using.
+msg-param-should-share-streak -- 1
+msg-param-streak-months -- 1 //Can implement this.
+```
 
 #### Commands
 
