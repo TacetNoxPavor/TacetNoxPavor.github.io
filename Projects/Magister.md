@@ -15,6 +15,7 @@ than an average viewer in maintaining a positive stream chat experience, which I
 - [ ]  Implement Optimum bot functionality (if still needed going forward)
 - [ ]  Remove Chase Emotes from emote spams.
 - [x]  Fix msg-param-months issue
+- [ ]  Convert bot from PircBotX to Twitch4J
 
 ```Java
 msg-param-cumulative-months -- 34 // This is what I need to use.
