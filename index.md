@@ -26,6 +26,6 @@ Currently, there are 3 projects that will be listed here for the foreseeable fut
 ### Project Info Pages
 
 Discord Bot Info (Notitia) -- [HERE](./Projects/Notitia.md)  
-Twitch Bot Info (Magister) -- [HERE](./Projects/Magister.md)
-Twitch Bot REMAKE (MagisterT4J) -- [HERE](./Projects/MagisterT4J.md)
-DnD5e Character Maker Info -- [HERE](./Projects/DnD-Builder.md)
+Twitch Bot Info (Magister) -- [HERE](./Projects/Magister.md)  
+Twitch Bot REMAKE (MagisterT4J) -- [HERE](./Projects/MagisterT4J.md)  
+DnD5e Character Maker Info -- [HERE](./Projects/DnD-Builder.md)  
