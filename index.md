@@ -21,6 +21,7 @@ Currently, there are 3 projects that will be listed here for the foreseeable fut
 |:-------------|:------------------:|:------:|:----:|
 | Notitia      | Discord Bot        | Yes    |    <a href="https://github.com/TacetNoxPavor/Notitia">Notitia Repo</a> |
 | Magister     | Twitch.tv bot      | Yes    | <a href="https://github.com/TacetNoxPavor/Magister">Magister Repo (original)</a> |
+| MagisterT4J  | Remake of Magister | Yes    | <a href="https://github.com/TacetNoxPavor/MagisterT4J">MagisterT4J Repo (original)</a> |
 | DnD Builder  | Character Builder  | *Eh.*  | <a href="https://github.com/TacetNoxPavor/DnD5e-Character-Builder">DnD5e Builder Repo</a> |
 
 ### Project Info Pages

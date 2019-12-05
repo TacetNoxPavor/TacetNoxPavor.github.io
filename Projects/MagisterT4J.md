@@ -3,22 +3,14 @@
 #### A Twitch.tv bot built using a modified version of the PircBotX framework
 
 Rebuild of the original Magister Bot using a newer framework called Twitch4J. This framework is similar to the JDA
-framework that I'm used to for the 
+framework that I'm used to for the
 
 #### Tasks To Finish
 - [ ]  Implement Optimum bot functionality (if still needed going forward)
-- [ ]  Remove Chase Emotes from emote spams.
-- [x]  Fix msg-param-months issue
-- [ ]  Convert bot from PircBotX to Twitch4J
+- [ ]  Convert bot from PircBotX to Twitch4J (In Progress)
 
-```Java
-msg-param-cumulative-months -- 34 // This is what I need to use.
-msg-param-months -- 0 //This is what I was using.
-msg-param-should-share-streak -- 1
-msg-param-streak-months -- 1 //Can implement this.
-```
 
-#### Commands
+#### Commands TO BE ADDED
 
 | Command | Description | Availability |
 | :-----  | :---------- | :------------ :|
