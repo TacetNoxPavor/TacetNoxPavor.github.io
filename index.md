@@ -1,6 +1,9 @@
 # Hello!
 * * *
 
+## NOTICE: I just got a new job, so edits may be delayed by quite a while. All projects are still active but not going to be as frequent as they have been in the past :)
+
+
 This is a place for all information to be found regarding any and all projects that I may be currently working on, given that I update this page as well! Also, some personal information about me and the way I operate will also be listed here.
 
 ### About Me
