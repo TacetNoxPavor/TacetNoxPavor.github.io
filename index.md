@@ -18,7 +18,7 @@ I graduated back in 2017, and am currently looking for a job related to my field
 
 ### Project Repos
 
-##Project Overhaul Alert!
+## Project Overhaul Alert!
 - So, it turns out that Discord is completely revamping their bot login and scope process, requiring every bot to request each specific event that they would like to listen to. This makes sense, as most bots don't need to waste API resources on listening for user-typing events and such, but completely breaks the current login and auth process for a lot of bots. The framework I use, JDA, already has an updated version to handle the new login method, so Notitia will be forced to update AGAIN beyond general maintenance to actually keep working.
 
 Currently, there are 3 projects that will be listed here for the foreseeable future:
